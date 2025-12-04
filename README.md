@@ -69,7 +69,3 @@ All code was rewritten by me to practice HTML, CSS, and JavaScript (DOM + events
 🇺🇸 Project inspired by the layout and concept taught by DevQuest.
 
 ---
-
-
-**Seu Nome**
-[Seu LinkedIn] • [Seu GitHub] • [Seu Portfólio]

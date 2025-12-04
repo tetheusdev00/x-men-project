@@ -39,6 +39,8 @@ All code was rewritten by me to practice HTML, CSS, and JavaScript (DOM + events
 
 ## 🖼️ Preview
 
+![Preview do projeto](./src/images/preview.png)
+
 
 ---
 

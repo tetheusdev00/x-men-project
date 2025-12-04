@@ -1,0 +1,10 @@
+@media(max-width: 1120px){
+    .header .logo{
+        max-width: 190px;
+    }
+
+    .character-selection{
+        flex-direction: column;
+
+    }
+}
